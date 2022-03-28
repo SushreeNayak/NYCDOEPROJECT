@@ -1,3 +1,3 @@
-# NYCDOEPROJECT
-This is written in Swift 
-DISPLAY NYCDOE Data from their public website
+# NYC DOE PROJECT
+This is written in Swift Language
+Here Displaying NYCDOE Data on an IOS App.
